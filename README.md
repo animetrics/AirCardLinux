@@ -16,7 +16,7 @@ profiles might be on the device -> turning off -> turning back on -> creating a
 new profile -> connecting -> bringing usb0 nic up.  Make sure to edit the
 StartModem.sh script to add the proper profile for your carrier.
 
-**NOTE:** I modified the driver code was because it uses kernel logging not
+**NOTE:** I modified the driver code because it uses kernel logging not
 available with the Centos kernel.  Original driver code is in the orig folder.
 
 ### Install
