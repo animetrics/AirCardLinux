@@ -1,0 +1,2 @@
+DEVICE=usb0
+BOOTPROTO=dhcp
